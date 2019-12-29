@@ -26,3 +26,8 @@ https://packaging.python.org/guides/installing-using-pip-and-virtual-environment
 
 Instructions for installing and launching:
 https://realpython.com/lessons/installing-and-launching-jupyter/
+
+# Computer Vision and Data Science Python tools
+https://opensource.com/article/19/3/python-image-manipulation-tools
+https://scipy.org/install.html#pip-install
+
